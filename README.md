@@ -1,2 +1,2 @@
-# Misc
-Misc code snippets from projects and labs
+# Miscellaneous
+Random code snippets from projects and labs
