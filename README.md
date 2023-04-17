@@ -1,5 +1,8 @@
 # Miscellaneous
 Random code snippets from projects and labs
 
-### Message Box PS1
+#### MessageBox 
 Learning bascis of pinvoke to generate a message box using PowerShell/C#
+
+#### UnsafeNativeMethods
+Obtain private/internal object references 
